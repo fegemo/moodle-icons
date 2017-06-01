@@ -10,6 +10,7 @@ A set of icons used in my Moodle courses
   - ![Balloon icon](24x24/icon-balloon.png): `icon-balloon.png`
   - ![Child icon](24x24/icon-child.png): `icon-child.png`
   - ![Corpus Christi icon](24x24/icon-corpus-christi.png): `icon-corpus-christi.png`
+  - ![House icon](24x24/icon-house.png): `icon-house.png`
 - Icons in 128x128:
   - ![Strike icon](128x128/icon-strike.png): `icon-strike.png`
   - ![Question mark icon](128x128/icon-question.png): `icon-question.png`
@@ -17,6 +18,7 @@ A set of icons used in my Moodle courses
   - ![Balloon icon](128x128/icon-balloon.png): `icon-balloon.png`
   - ![Child icon](128x128/icon-child.png): `icon-child.png`
   - ![Corpus Christi icon](128x128/icon-corpus-christi.png): `icon-corpus-christi.png`
+  - ![House icon](128x128/icon-house.png): `icon-house.png`
 
 ## Usage
 
