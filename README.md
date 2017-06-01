@@ -12,6 +12,7 @@ A set of icons used in my Moodle courses
   - ![Corpus Christi icon](24x24/icon-corpus-christi.png): `icon-corpus-christi.png`
   - ![House icon](24x24/icon-house.png): `icon-house.png`
   - ![Idea icon](24x24/icon-idea.png): `icon-idea.png`
+  - ![Presentation icon](24x24/icon-presentation.png): `icon-presentation.png`
 - Icons in 128x128:
   - ![Strike icon](128x128/icon-strike.png): `icon-strike.png`
   - ![Question mark icon](128x128/icon-question.png): `icon-question.png`
@@ -21,6 +22,7 @@ A set of icons used in my Moodle courses
   - ![Corpus Christi icon](128x128/icon-corpus-christi.png): `icon-corpus-christi.png`
   - ![House icon](128x128/icon-house.png): `icon-house.png`
   - ![Idea icon](128x128/icon-idea.png): `icon-idea.png`
+  - ![Presentation icon](128x128/icon-presentation.png): `icon-presentation.png`
 
 ## Usage
 
