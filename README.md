@@ -13,6 +13,7 @@ A set of icons used in my Moodle courses
   - ![House icon](24x24/icon-house.png): `icon-house.png`
   - ![Idea icon](24x24/icon-idea.png): `icon-idea.png`
   - ![Presentation icon](24x24/icon-presentation.png): `icon-presentation.png`
+  - ![Test icon](24x24/icon-test.png): `icon-test.png`
 - Icons in 128x128:
   - ![Strike icon](128x128/icon-strike.png): `icon-strike.png`
   - ![Question mark icon](128x128/icon-question.png): `icon-question.png`
@@ -23,6 +24,7 @@ A set of icons used in my Moodle courses
   - ![House icon](128x128/icon-house.png): `icon-house.png`
   - ![Idea icon](128x128/icon-idea.png): `icon-idea.png`
   - ![Presentation icon](128x128/icon-presentation.png): `icon-presentation.png`
+  - ![Test icon](128x128/icon-test.png): `icon-test.png`
 
 ## Usage
 
